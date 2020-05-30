@@ -10,6 +10,7 @@
     * Read [this](https://www.velvetech.com/blog/high-frequency-algorithmic-trading/)
 * __Dual Moving Average Crossover Strategy__
     * Read [this](https://www.wisdomtrading.com/public-trading-systems/dual-moving-average-crossover-trading-system/)
+    * Read [Part-1](https://faculty.fuqua.duke.edu/~charvey/Teaching/BA453_2002/CCAM/CCAM.htm)
 * __Double Exponential Moving Average__ _(DEMA)_
     * Read at [Investopedia](https://www.investopedia.com/articles/trading/10/double-exponential-moving-average.asp)
 * __Moving Average Trading Strategies__
