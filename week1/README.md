@@ -12,4 +12,8 @@
     * Read [this](https://www.wisdomtrading.com/public-trading-systems/dual-moving-average-crossover-trading-system/)
 * __Double Exponential Moving Average__ _(DEMA)_
     * Read at [Investopedia](https://www.investopedia.com/articles/trading/10/double-exponential-moving-average.asp)
+* __Moving Average Trading Strategies__
+    * Read https://blog.quantinsti.com/moving-average-trading-strategies/
+* __MACD Strategy__
+    * Read [this](https://www.investopedia.com/terms/m/macd.asp)
 
